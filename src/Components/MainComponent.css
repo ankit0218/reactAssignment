@@ -1,0 +1,137 @@
+.main{
+    background-color: #FFCD9E;
+    height: 65vh;
+}
+.mainheading{
+
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 150px;
+    top: 40px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.3;
+    color: #282828; 
+}
+.para{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 10px;
+    top: 120px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 150%;
+    
+    display: flex;
+    align-items: center;
+    color: #484848;
+    }
+    
+    
+    .show{
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    left: 10px;
+    top: 200px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 160%;
+    
+    display: flex;
+    align-items: center;
+    color: #282828;
+    }
+     
+    .img{
+        position: absolute;
+        left: 140%;
+        right: 4.58%;
+        top: 7.55%;
+        height: 340px;
+        width: 310px;
+    
+    }
+    
+    #email{
+    box-sizing: border-box;
+    position: absolute;
+    width: 320px;
+    height: 50px;
+    left: 10px;
+    top: 280px;
+    
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+    }
+    input{
+        font-size: 20px;
+        align-content: center;
+    }
+    ::placeholder{
+        
+        font-size: large;
+        opacity: 0.5;
+        
+    }
+    .after{
+    position: absolute;
+    width: 320px;
+    height: 50px;
+    left: 10px;
+    top: 210px;
+    font-size: 50px;
+    }
+    
+    .registerbtn{
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 370px;
+    top: 280px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    justify-content: center;
+    border-radius: 10px;
+    }
+    .formdown{
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: -20px;
+    top: 320px;
+    justify-content: center;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    
+    }
